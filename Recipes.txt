@@ -5,6 +5,9 @@ Ugali
 Meat
 Rice
 Fries
+Beans
+Pizza
+
 
 
 Thank you!
